@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_top_small_4">4dp</dimen>
+    <dimen name="margin_bottom_large_104">104dp</dimen>
+
+
+    <dimen name="height_0">0dp</dimen>
+
+    <dimen name="height_small_1.5">1.5dp</dimen>
+
+    <dimen name="text_size_small_16">16sp</dimen>
+
+
+</resources>
